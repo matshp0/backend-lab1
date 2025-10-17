@@ -4,7 +4,7 @@ A simple REST API built with NestJS that provides a health check endpoint. The a
 
 ## 🔗 Live Demo
 
-The application is deployed and accessible at: [https://backend-lab1-6tjf.onrender.com](https://backend-lab1-6tjf.onrender.com)
+The application is deployed and accessible at: [https://backend-lab1-6tjf.onrender.com](https://backend-lab1-6tjf.onrender.com/health/status)
 
 ## 🚀 API Endpoints
 
@@ -36,8 +36,8 @@ GET /health/status
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/matshp0/backend-lab1
+cd backend-lab1
 ```
 
 2. Install dependencies:
